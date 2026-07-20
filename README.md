@@ -1,4 +1,4 @@
-# bitmap-comp — starting framework
+# bitmap-comp-framework — starting framework
 
 Benchmark harness for the laboratory project **“Benchmarking Bitmap
 Compression Methods”**. It measures how the characteristics of bitmap data —
