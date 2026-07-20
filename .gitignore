@@ -1,0 +1,10 @@
+build/
+queries/
+results/
+data/*
+!data/example/
+.DS_Store
+.claude/
+*.log
+*.o
+*.out
